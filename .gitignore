@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Keras/TensorFlow
+*.h5
+*.keras
+*.pb
+
+# Data
+*.png
+*.jpg
+*.tif
+*.tiff
+*.npy
+*.npz
+
+# Logs
+logs/
+*.out
+*.err
+
+# Environment
+.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
